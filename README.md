@@ -4,7 +4,7 @@ The dataset had 17 attributes:
 3. Height: numeric, in meters
 4. Weight: numeric, in kilograms
 5. family_history (family history of obesity): yes or no
-6. FCHCF (frequent consumption of high caloric food): yes or no
+6. FCHCF (frequent consumption of high caloric food): yes or no a
 7. FCV (frequency of consumption of vegetables: 1, 2, or 3; 1 = never, 2 = sometimes, 3 = always
 8. NMM (number of main meals): 1, 2, 3 or 4
 9. CFBM (consumption of food between meals): 1, 2, 3, or 4; 1=no, 2=sometimes, 3=frequently, 4=always
